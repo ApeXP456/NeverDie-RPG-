@@ -36,7 +36,7 @@
 
 ## Gameplay
 
-Upon starting the game, you'll be prompted to create your character by selecting a class and distributing attribute points. As you progress, you'll encounter various challenges and enemies. Use your skills and items wisely to survive and thrive in the world of NeverDie.([github.com][1])
+Upon starting the game, you'll be prompted to create your character by selecting a class (Warrior,Mage, Rouge) and distributing attribute points(15pts). As you progress, you'll encounter various challenges and enemies (Dragons,theives). Use your skills and items wisely to survive and thrive in the world of NeverDie!!!([github.com][1])
 
 ## Contributing
 
