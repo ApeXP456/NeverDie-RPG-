@@ -1,7 +1,3 @@
-Here's a comprehensive `README.md` for the [NeverDie-RPG-](https://github.com/ApeXP456/NeverDie-RPG-) GitHub repository:
-
----
-
 # NeverDie: A Text-Based RPG Adventure Game
 
 **NeverDie** is a text-based adventure game set in a mystical land filled with dragons, danger, and treasure. Players create a character, choose a class, and distribute attribute points to embark on a journey filled with perilous encounters and mythical creatures. The game features a combat system, inventory management, and save/load functionality, offering an engaging experience in the realm of NeverDie.([github.com][1])
